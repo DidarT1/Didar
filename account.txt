@@ -1,1 +1,101 @@
-murgi dekhso kono dino😚ai dekho murgi🐓
+[
+    {
+        "key": "datr",
+        "value": "I4YEaKT3dgweFBqKD9mc_LD8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "sb",
+        "value": "I4YEaJoeP0VV7eOF2GJ1EWxp",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3.597440719604492",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "wd",
+        "value": "300x593",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61575260435910",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "fr",
+        "value": "0QeNBLdwiENecLalV.AWdIHdgERgdZ1tmhVmsVdGEvlXwqxu6Y7OqV_7d8fgyZd2ipt54.BoBIYj..AAA.0.0.BoBIZF.AWfuUeG_F_TYBMrQddqDJLW3WeQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "xs",
+        "value": "11%3AOD4oioRodf2oPg%3A2%3A1745126982%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2791%3Btimestamp%3A1745126985",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101427358%3BT%3A29085450",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B593x300x3.597440719604492",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-04-20T05:30:32.235Z",
+        "lastAccessed": "2025-04-20T05:30:32.235Z"
+    }
+]
