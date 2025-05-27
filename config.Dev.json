@@ -24,7 +24,7 @@
     "whiteListIds": ["100000934675181" ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "[.]𝐑_𝐌°𝐘𝐨𝐮𝐫°𝐁𝐚𝐛𝐲",
+  "nickNameBot": "[.]Didar-bot🎀💌",
   "prefix": ".",
   "database": {
     "type": "sqlite",
